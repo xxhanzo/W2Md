@@ -1,7 +1,7 @@
 # W2Md
-一、项目地址
+# 一、项目地址
 https://github.com/xxhanzo/W2Md
-二、项目结构
+# 二、项目结构
 - `Word2Markdown` 文件夹
   - `W2Md_1` 文件夹
     - `W2M_upload.py`: 通过上传来转换md文件
@@ -9,7 +9,7 @@ https://github.com/xxhanzo/W2Md
   - `data` 文件夹
     - 包含的是测试数据。
 其中只需要运行`W2M_upload.py`通过上传来转换md文件即可，方便
-三、效果展示
+# 三、效果展示
 1. 安装`requirements.txt`
 pip install -r requirements.txt
 2. 运行
